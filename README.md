@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @jai
+- 👋 Hi, I’m Jain Jacob M
 - 👀 Secure youreself  
 - 🌱 Yes I'm learning 
-- 💞️ Waiting for you 
-- 📫 How to reach me .. Plz be there @..
+- 📫 How to reach me .. jain.jacobmekkattukulam@hbc.com
 
 <!---
 jainjacobm/jainjacobm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
